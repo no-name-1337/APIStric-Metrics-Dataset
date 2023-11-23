@@ -6,7 +6,7 @@ For the purposes of a double-blind review, we are  not giving a link for the dep
 
 Please Watch Demo Video on APIstics's Web App:
 
-<iframe width="100%" frameborder="0" src="https://mega.nz/file/gzdgFJRQ#Tcdu5X-VswON6hFntpGJZK92fEzR1eP7tl0IDuMF55U" allowfullscreen ></iframe>
+<iframe width="100%" height="700px" frameborder="0" src="https://mega.nz/file/gzdgFJRQ#Tcdu5X-VswON6hFntpGJZK92fEzR1eP7tl0IDuMF55U" allowfullscreen ></iframe>
 
 Were are also providing a snapshopt of the dataset in .json zipped files:
 
