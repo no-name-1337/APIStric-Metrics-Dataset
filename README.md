@@ -1,4 +1,4 @@
-# APIstic-Metrics-Dataset
+# APIstic Metrics Dataset
 
 Given the potential size  of the dataset, making it cumbersome to download in its entirety, we created for APIstics a user-friendly web interface. This interface will allow users to navigate the dataset with ease, applying specific metrics tailored to their needs and downloading only the segments of interest. Additionally, the interface will provide convenient tools for visualizing data distributions and values based on selected metrics.
 
@@ -6,7 +6,7 @@ For the purposes of a double-blind review, we are  not giving a link for the dep
 
 Please Watch Demo Video on APIstics's Web App:
 
-<iframe width="100%" height="700px" frameborder="0" src="https://mega.nz/file/gzdgFJRQ#Tcdu5X-VswON6hFntpGJZK92fEzR1eP7tl0IDuMF55U" allowfullscreen ></iframe>
+<iframe width="100%" height="700px" frameborder="0" src="https://mega.nz/embed/gvMUHY4B#Qq8HU6C64nduA13Cd0DAEolvKdT5Yv3k0AGeK6DL4io" allowfullscreen ></iframe>
 
 Were are also providing a snapshopt of the dataset in .json zipped files:
 
